@@ -18,14 +18,18 @@ Pour **iPad et iPhone (iOS/iPadOS 26 ou version ultérieure)**. Fonctionne égal
 
 **FlowPocket** is a temporary shelf for text, links, images and files as you move between apps.
 
-### Available now — version 1.0.1
+### Available now — version 1.1
 
 - **Collect and preview**: Save text, links, images and files as cards with previews.
 - **Automatic saving**: Requires automatic saving to be enabled, clipboard access to be allowed, and FlowPocket to be active in the foreground.
 - **Copy and drag out**: Double-tap a card to copy it, or drag it into a compatible app such as Notes, Mail or Files. Supported content types depend on the destination app.
+- **Titles and notes**: Add context to a card without renaming its saved file.
+- **Markdown export (Pro/Max)**: Export selected cards as Markdown, or include original images and files in a ZIP materials pack.
+- **10 interface languages**: English, Simplified Chinese, Traditional Chinese, French, German, Spanish, Italian, Japanese, Korean and Brazilian Portuguese.
+- **Narrow iPad windows**: Cards use a single column beside your other app.
 - **Local card library**: Your saved cards stay on your device. See the privacy policy for details about network requests and services used by the app.
 
-**Version 1.1 is coming soon:** Markdown export (Pro/Max), card titles and notes, and 10 interface languages. These additions will be available when the update is released; the current App Store version is 1.0.1.
+**Version 1.1 is available.**
 
 ### Support
 
@@ -38,14 +42,18 @@ Read the [Privacy Policy](https://aigovmap.com/flowpocket-privacy.html).
 
 **兜兜** 是文字、链接、图片和文件的临时收纳架，让你在不同 App 之间处理资料时，先把内容放在手边。
 
-### 当前可用 — 1.0.1 版本
+### 当前可用 — 1.1 版本
 
 - **收集与预览**：将文字、链接、图片和文件保存为卡片，查看内容预览。
 - **自动保存**：需开启自动保存、允许访问剪贴板，并保持兜兜在前台活跃。
 - **复制与拖出**：双击卡片即可复制，也可拖入备忘录、邮件、文件等兼容 App；支持的内容类型取决于目标 App。
+- **标题与备注**：为卡片保留上下文，修改标题不会重命名已保存的文件。
+- **Markdown 导出（Pro/Max）**：将所选卡片导出为 Markdown，也可将原始图片和文件一并打包为 ZIP 资料包。
+- **10 种界面语言**：英语、简体中文、繁体中文、法语、德语、西班牙语、意大利语、日语、韩语和巴西葡萄牙语。
+- **iPad 窄窗单列**：在另一款 App 旁边，以单列卡片收纳资料。
 - **本地卡片库**：已保存的卡片保存在设备上。App 使用的网络请求与服务详见隐私政策。
 
-**1.1 版本即将上线：** Markdown 导出（Pro/Max）、卡片标题与备注、10 种界面语言。这些新增功能将在更新发布后提供；当前 App Store 版本为 1.0.1。
+**1.1 版本已上线。**
 
 ### 支持
 
@@ -58,14 +66,18 @@ Read the [Privacy Policy](https://aigovmap.com/flowpocket-privacy.html).
 
 **FlowPocket** est un espace temporaire pour garder textes, liens, images et fichiers à portée de main lorsque vous passez d’une app à l’autre.
 
-### Disponible actuellement — version 1.0.1
+### Disponible actuellement — version 1.1
 
 - **Collecte et aperçu** : Enregistrez textes, liens, images et fichiers sous forme de cartes avec aperçu.
 - **Enregistrement automatique** : Il doit être activé dans les réglages, l’accès au presse-papiers doit être autorisé et FlowPocket doit rester actif au premier plan.
 - **Copie et glisser-déposer** : Touchez deux fois une carte pour la copier, ou glissez-la dans une app compatible comme Notes, Mail ou Fichiers. Les types de contenus acceptés dépendent de l’app de destination.
+- **Titres et notes** : Ajoutez du contexte à une carte sans renommer le fichier enregistré.
+- **Export Markdown (Pro/Max)** : Exportez les cartes sélectionnées en Markdown, ou joignez les images et fichiers d’origine dans une archive ZIP.
+- **10 langues d’interface** : anglais, chinois simplifié, chinois traditionnel, français, allemand, espagnol, italien, japonais, coréen et portugais du Brésil.
+- **Fenêtres iPad étroites** : Les cartes s’affichent sur une seule colonne à côté de votre autre app.
 - **Bibliothèque locale** : Les cartes enregistrées restent sur votre appareil. Consultez la politique de confidentialité pour connaître les requêtes réseau et les services utilisés par l’app.
 
-**La version 1.1 arrive bientôt :** export Markdown (Pro/Max), titres et notes des cartes, et 10 langues d’interface. Ces nouveautés seront disponibles à la sortie de la mise à jour ; la version actuelle sur l’App Store est la 1.0.1.
+**La version 1.1 est disponible.**
 
 ### Assistance
 
